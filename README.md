@@ -29,11 +29,12 @@ Generally, I make stuff that I think would be interesting to make.
 ## The Mountain Ahead
 
 Like is the case with anything, there's a lot I still need to learn about programming.
-- I'm still not exactly sure what computing specialty I want to go into. Web dev? Cybersecurity? Game development? AI? What am I good at? What will I enjoy?
+- I'm still not exactly sure what computing specialty I want to go into. Web dev? Cybersecurity? Game development? AI? Computational biology? What am I good at? What will I enjoy?
 
 ## Contacts
 
-Email: eddy.wang@yale.edu\
+Contact me at school: eddy.wang@yale.edu\
+For business: eddyw1430@gmail.com\
 That's it, for now.
 
 <!--
