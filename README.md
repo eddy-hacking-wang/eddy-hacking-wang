@@ -13,7 +13,7 @@ Yeah, maybe I can start here. One line of code at a time.
 
 ## Beeps and Boops, Ones and Zeros
 
-Generally, I make stuff that I think would be interesting to make.
+Generally, I make stuff that I think would be interesting to make. There are projects I create entirely without AI and projects I create with the assistance of AI. Both approaches are valuable for learning and practicing software engineering. In the READMEs of my projects, I state whether or not I used AI or not.
 - A full stack blog site. I'm not disclosing the link for the site on an account where you know my name. But trust that I made it.
   - People go on the web a lot, so making a project that people would actually see and immersing myself in the creation process behind something that I've seen before is pretty cool. I like learning about how the stuff I use daily works.
   - React, Node.js, Redux, GraphQL. I could have used REST but I decided to implement GraphQL instead for the backend.
